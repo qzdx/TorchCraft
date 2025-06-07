@@ -1,11 +1,11 @@
-# PyTorch 深度学习实战指南 🚀
+# PyTorch on MacBook pro m1 🚀
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%3E%3D1.10-red)](https://pytorch.org/get-started/locally/)
 
-欢迎来到PyTorch学习项目！这是一个从基础到进阶的PyTorch实战指南，包含代码示例、教程和实战项目。
+本项目完全适配Macbook m1版本
 
 ## ✨ 项目特点
 

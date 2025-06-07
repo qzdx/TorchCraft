@@ -40,8 +40,8 @@ class AlexNet(nn.Module):
         x = self.f3(x)
         return x
     
-    if __name__ == '__main__':
-        device = torch.device("mps")
+if __name__ == '__main__':
+    device = torch.device("mps")
 
-        model = Alexnet().to(device)
-        print(summary())
+    model = AlexNet().to(device)
+    print(summary(model,input_size=(1,1,227,227),device=device.type))
