@@ -1,6 +1,5 @@
 # PyTorch 深度学习实战指南 🚀
 
-![PyTorch Logo](https://pytorch.org/assets/images/pytorch-logo.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -25,6 +24,7 @@
 
 ### 2. 计算机视觉
 - CNN实现与图像分类
+    - Lenet5 , AlexNet搭建
 - 迁移学习实战
 - 目标检测入门
 
